@@ -1,1 +1,5 @@
 Micron.sln
+obj
+.vs
+bin
+  
